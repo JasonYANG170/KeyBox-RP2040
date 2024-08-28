@@ -39,7 +39,7 @@
 如果您有更好的建议，欢迎PR
 ## 喜欢这个项目，请为我点个Star ⭐ 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=JasonYANG170/KeyBox&type=Date)](https://star-history.com/#star-history/star-history&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=JasonYANG170/KeyBox-RP2040&type=Date)](https://star-history.com/#star-history/star-history&Date)
 ## 展示图
 ![ca0fa79a0113ed9906e0086c6a3c5f5](https://github.com/user-attachments/assets/ec687b2a-2b91-4886-9db0-a8ebab15c6a6)
 
