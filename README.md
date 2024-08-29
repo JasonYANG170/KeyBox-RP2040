@@ -20,8 +20,10 @@
 3. RP2040版本使用USB-HID无需蓝牙HID连接输入
 
 ## 演示视频
-[哔哩哔哩](https://www.bilibili.com/video/BV1NATFeLE5D/)
-[YouTube](https://youtu.be/kEUG0me2HfA)
+
+[![KeyBox](https://res.cloudinary.com/marcomontalbano/image/upload/v1719168122/video_to_markdown/images/youtube--kEUG0me2HfA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/kEUG0me2HfA "KeyBox")
+
+[无法播放请点此使用BiliBili](https://www.bilibili.com/video/BV1NATFeLE5D/)
 ## 功能
 - ✅支持从浏览器导入网站密钥
 - ✅支持 TOTP 2FA 实时验证码绑定
