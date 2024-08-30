@@ -2,7 +2,7 @@
     <h1>KeyBox-RP2040电子钥匙</h1>
 
 
-![Static Badge](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-green?style=for-the-badge)![Commit Activity](https://img.shields.io/github/commit-activity/w/JasonYANG170/KeyBox?style=for-the-badge&color=yellow)![Languages Count](https://img.shields.io/github/languages/count/JasonYANG170/KeyBox?logo=c&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-green?style=for-the-badge)![Commit Activity](https://img.shields.io/github/commit-activity/w/JasonYANG170/KeyBox-RP2040?style=for-the-badge&color=yellow)![Languages Count](https://img.shields.io/github/languages/count/JasonYANG170/KeyBox-RP2040?logo=c&style=for-the-badge)
 
 [![Discord](https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec)](https://discord.com/invite/az3ceRmgVe)
 
